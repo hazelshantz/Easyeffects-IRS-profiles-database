@@ -103,7 +103,7 @@ We need to figure out how the filtering is done with Dolby on Windows. To do thi
 Your screen should look something like this (note I edited the Output gain of
 the Convolver filter, but that's up to you):
 
-<img src="./PulseEffects.png" />
+<img src="./easyeffects.png" />
 
 You can test the headphone/laptop speaker switching. My observation is that it
 takes about 1-3 seconds for PulseEffects to switch between the presets.
