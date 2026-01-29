@@ -1,0 +1,23 @@
+{
+    "output": {
+        "blocklist": [],
+        "convolver#0": {
+            "autogain": true,
+            "bypass": false,
+            "dry": -100.0,
+            "input-gain": 0.0,
+            "ir-width": 100,
+            "kernel-name": "wave1",
+            "output-gain": 0.0,
+            "sofa": {
+                "azimuth": 0.0,
+                "elevation": 0.0,
+                "radius": 1.0
+            },
+            "wet": 0.0
+        },
+        "plugins_order": [
+            "convolver#0"
+        ]
+    }
+}
