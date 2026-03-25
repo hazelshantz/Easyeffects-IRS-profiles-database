@@ -1,5 +1,12 @@
+## Update: project moved to https://codeberg.org/lillianrozenwurthz/Easyeffects-IRS-profiles-database now being maintained by another user.
+
+
+
+--
+
 # Easyeffects-IRS-profiles-database
 ## A community maintained database of IRS+easyeffects profiles files, to be used with the convolver
+
 
 On this repository, you'll find a database with IRS (Impulse Response Sound) files, and easyeffects profiles.
 
